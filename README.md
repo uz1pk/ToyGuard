@@ -1,4 +1,4 @@
-# toy-guard
+# ToyGuard
 
 A toy implementation of the [wireguard](https://www.wireguard.com/) protocol with the client being used on my laptop and an EC2 instance with some additional network configuration acting as my VPN server.
 
